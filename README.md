@@ -1,10 +1,40 @@
-# My React App
+## My React App
 
-## Project Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Project Overview
 
 This project is a React-based web application that showcases [purpose of the app]. It is structured to maintain clarity, scalability, and separation of concerns.
 
-## File Structure
+### File Structure
 
 The file structure of this project is organized as follows:
 
@@ -49,7 +79,7 @@ The file structure of this project is organized as follows:
 - **package.json**: Lists project dependencies and scripts.
 - **README.md**: Documentation for the project.
 
-## How to Run the Project
+### How to Run the Project
 
 To run the project locally:
 
