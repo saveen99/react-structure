@@ -1,34 +1,5 @@
 ## My React App
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Project Overview
 
 This project is a React-based web application that showcases [purpose of the app]. It is structured to maintain clarity, scalability, and separation of concerns.
